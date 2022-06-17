@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![https://github.com/Team-Ladefuchs](https://user-images.githubusercontent.com/1244071/174316152-eba42b53-63ad-41f9-8acc-2a8fb4b03e0d.png)
+
 <!--
 **flowinho/flowinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +19,5 @@ Here are some ideas to get you started:
 
 |![Flowinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowinho&count_private=true&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowinho)|
 |:-:|:-:|
+
+
