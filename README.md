@@ -4,7 +4,15 @@
 |⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|⭐️⭐️⭐️⭐️|⭐️⭐️⭐️|
 ### Hi there 👋
 
+My name is Florian Schuttkowski and i create these „Apps“ you’ve probably heard about. Yes, I write code to make them function, so you don’t have to. And because I like fancy things that actually work, I focus on Apple operating systems. Sometimes you’ll see me on the backend side of these things, but few have seen me like that — and survived.
 
+When not working, most of the time my head is with my wonderful daughters, sometimes you’ll see me playing Badminton and since five years you can hear me talk about tech in a podcast or read my german blog. A curent side-project that focuses on charging of electric-vehicles is Ladefuchs. I’m a strong believer in evidence-based science and although i’m not into social media anymore, i occasionally tweet or toot about things that happen in my life. Everything tech related you might want to know about me is either documented or open-source — or both. 
+
+### Side-projects 👨🏻‍💻
+
+|![IMG_2821](https://user-images.githubusercontent.com/1244071/174324745-3bce0f6d-75cd-4425-9d20-e98acf9098ce.png)|
+|:-:|
+|My side-projects: The EV Charging Price Calculator [Ladefuchs](https://ladefuchs.app), the Podcast [Audiodump](https://audiodump.de), and my personal blog [derFlo](https://derflo.io).|
 
 
 <!--
