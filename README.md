@@ -6,7 +6,7 @@
 
 My name is Florian Schuttkowski and i create these „Apps“ you’ve probably heard about. Yes, I write code to make them function, so you don’t have to. And because I like fancy things that actually work, I focus on Apple operating systems. Sometimes you’ll see me on the backend side of these things, but few have seen me like that — and survived.
 
-When i code, i rely on awesome software build by amazing people:
+When i code, i rely on awesome tooling build by amazing people:
 
 <p>
 <!-- Development Tools -->
