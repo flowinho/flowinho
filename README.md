@@ -38,10 +38,15 @@ When i code, i rely on awesome software build by amazing people:
 <img alt="obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
 <img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
 <img alt="zsh" src="https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
+<img alt="simpleicons" src="https://img.shields.io/badge/-Simple_Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" />
+<img alt="shieldsio" src="https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" />
 
 <!-- Security -->
 <img alt="keepassxc" src="https://img.shields.io/badge/-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white" />
 <img alt="2fas" src="https://img.shields.io/badge/-2FAS-EC1C24?style=flat-square&logo=2fas&logoColor=white" />
+
+<!-- Other -->
+<img alt="kofi" src="https://img.shields.io/badge/-Ko-Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" />
 </p>
 
 When not working, most of the time my head is with my wonderful daughters, sometimes you’ll see me playing Badminton and since 2017 you can hear me talk about tech in a podcast or read my german blog. A curent side-project that focuses on charging of electric-vehicles is Ladefuchs. I’m a strong believer in evidence-based science and although i’m not into social media anymore, i occasionally tweet or toot about things that happen in my life. Everything tech related you might want to know about me is either documented or open-source — or both. Most of it is stored on my [personal website](https://florianschuttkowski.com).
