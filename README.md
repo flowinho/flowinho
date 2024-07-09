@@ -23,6 +23,7 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white" />
 <img alt="mermaid" src="https://img.shields.io/badge/-Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
 <img alt="mkdocs" src="https://img.shields.io/badge/-Material_for_MKDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white" />
+<img alt="vscodium" src="https://img.shields.io/badge/-VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white" />
 
 <!-- Programming Languages and Frameworks -->
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -30,6 +31,8 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+<img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 <!-- Server -->
 <img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
@@ -41,11 +44,15 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="simpleicons" src="https://img.shields.io/badge/-Simple_Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" />
 <img alt="shieldsio" src="https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" />
 
+<!-- CLI -->
+<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+
 <!-- Security -->
 <img alt="keepassxc" src="https://img.shields.io/badge/-KeePassXC-6CAC4D?style=flat-square&logo=keepassxc&logoColor=white" />
 <img alt="2fas" src="https://img.shields.io/badge/-2FAS-EC1C24?style=flat-square&logo=2fas&logoColor=white" />
 
 <!-- Other -->
+<img alt="googlefonts" src="https://img.shields.io/badge/-Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white" />
 <img alt="kofi" src="https://img.shields.io/badge/-KoFi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" />
 </p>
 
