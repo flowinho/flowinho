@@ -1,6 +1,6 @@
 # Welcome to my Coding Hub!
 
-||
+|![](https://raw.githubusercontent.com/flowinho/flowinho/main/coding-hub.jpg)|
 |:-:|
 |AI generated version of me in front my desk. _Quite close to reality._|
 
