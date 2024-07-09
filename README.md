@@ -34,7 +34,7 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="uikit" src="https://img.shields.io/badge/-UIkit-#2396F3?style=flat-square&logo=uikit&logoColor=white" />
+<img alt="uikit" src="https://img.shields.io/badge/-UIkit-2396F3?style=flat-square&logo=uikit&logoColor=white" />
 
 <!-- Server -->
 <img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
