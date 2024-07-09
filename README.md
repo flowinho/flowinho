@@ -24,6 +24,7 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="mermaid" src="https://img.shields.io/badge/-Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
 <img alt="mkdocs" src="https://img.shields.io/badge/-Material_for_MKDocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white" />
 <img alt="vscodium" src="https://img.shields.io/badge/-VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white" />
+<img alt="sonarqube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
 
 <!-- Programming Languages and Frameworks -->
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -33,6 +34,7 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="yaml" src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
 <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="uikit" src="https://img.shields.io/badge/-UIkit-#2396F3?style=flat-square&logo=uikit&logoColor=white" />
 
 <!-- Server -->
 <img alt="nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
