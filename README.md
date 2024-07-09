@@ -45,6 +45,7 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="zsh" src="https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
 <img alt="simpleicons" src="https://img.shields.io/badge/-Simple_Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" />
 <img alt="shieldsio" src="https://img.shields.io/badge/-Shields.io-000000?style=flat-square&logo=shieldsdotio&logoColor=white" />
+<img alt="openai" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 
 <!-- CLI -->
 <img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
