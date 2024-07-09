@@ -21,6 +21,8 @@ When i code, i rely on awesome software build by amazing people:
     <img alt="tmux" src="https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
     <img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=tmux&logoColor=white" />
     <img alt="confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+    <img alt="vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+    <img alt="mermaid" src="https://img.shields.io/badge/-Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" />
 </p>
 
 When not working, most of the time my head is with my wonderful daughters, sometimes you’ll see me playing Badminton and since 2017 you can hear me talk about tech in a podcast or read my german blog. A curent side-project that focuses on charging of electric-vehicles is Ladefuchs. I’m a strong believer in evidence-based science and although i’m not into social media anymore, i occasionally tweet or toot about things that happen in my life. Everything tech related you might want to know about me is either documented or open-source — or both. Most of it is stored on my [personal website](https://florianschuttkowski.com).
