@@ -37,6 +37,7 @@ When i code, i rely on awesome tooling build by amazing people:
 
 <!-- Productivity and Note-taking -->
 <img alt="obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+<img alt="joplin" src="https://img.shields.io/badge/-Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
 <img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
 <img alt="zsh" src="https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
 <img alt="simpleicons" src="https://img.shields.io/badge/-Simple_Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" />
@@ -56,6 +57,39 @@ When i code, i rely on awesome tooling build by amazing people:
 <img alt="kofi" src="https://img.shields.io/badge/-KoFi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" />
 <img alt="bosch" src="https://img.shields.io/badge/-Bosch-EA0016?style=flat-square&logo=bosch&logoColor=white" />
 </p>
+
+During my everyday life, i rely on the following mobile tools:
+
+<table>
+  <tr>
+    <td>Android</td>
+    <td>iOS</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="grapheneos" src="https://img.shields.io/badge/-GrapheneOS-0053A3?style=flat-square&logo=grapheneos&logoColor=white" />
+      <img alt="2fas" src="https://img.shields.io/badge/-2FAS-EC1C24?style=flat-square&logo=2fas&logoColor=white" />
+      <img alt="joplin" src="https://img.shields.io/badge/-Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
+      <img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
+      <img alt="fdroid" src="https://img.shields.io/badge/-FDroid-1976D2?style=flat-square&logo=fdroid&logoColor=white" />
+      <img alt="firefox" src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white" />
+      <img alt="mastodon" src="https://img.shields.io/badge/-Chaos.Social-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
+      <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+      <img alt="syncthing" src="https://img.shields.io/badge/-SyncthingFork-0891D1?style=flat-square&logo=syncthing&logoColor=white" />
+      <img alt="geocaching" src="https://img.shields.io/badge/-Geoaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
+      <img alt="synologyphotos" src="https://img.shields.io/badge/-SynologyPhotos-B5B5B6?style=flat-square&logo=synology&logoColor=white" />
+    </td>
+    <td>
+      <img alt="2fas" src="https://img.shields.io/badge/-2FAS-EC1C24?style=flat-square&logo=2fas&logoColor=white" />
+      <img alt="joplin" src="https://img.shields.io/badge/-Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
+      <img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
+      <img alt="mastodon" src="https://img.shields.io/badge/-Chaos.Social-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
+      <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+      <img alt="geocaching" src="https://img.shields.io/badge/-Geoaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
+      <img alt="synologyphotos" src="https://img.shields.io/badge/-SynologyPhotos-B5B5B6?style=flat-square&logo=synology&logoColor=white" />
+    </td>      
+  </tr>
+</table>
 
 When not working, most of the time my head is with my wonderful daughters and my irreplaceable, beautiful girlfriend, sometimes you’ll see me fighting Taekwondo and since 2017 you can hear me talk about tech in a podcast or read my german blog. A curent side-project that focuses on charging of electric-vehicles is Ladefuchs. I’m a strong believer in evidence-based science and although i’m not into social media anymore, i occasionally tweet or toot about things that happen in my life. Everything tech related you might want to know about me is either documented or open-source — or both. Most of it is stored on my [personal website](https://florianschuttkowski.com).
 
