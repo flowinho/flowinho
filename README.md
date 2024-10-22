@@ -62,8 +62,8 @@ During my everyday life, i rely on the following mobile tools:
 
 <table>
   <tr>
-    <td>Android</td>
-    <td>iOS</td>
+    <td><strong>Android</strong></td>
+    <td><strong>iOS</strong></td>
   </tr>
   <tr>
     <td>
@@ -96,7 +96,7 @@ When not working, most of the time my head is with my wonderful daughters and my
 |Tooling|Skill|Tooling|Skill|
 |:--|:--|:--|:--|
 |Markdown|█████|Swift|████▒|
-|Swift|████▒|YAML|██▒░░|
+|Objective-C|████▒|YAML|██▒░░|
 |Mermaid|███░░|CSS|██░░░|
 |Jekyll|████░|SASS|██░░░|
 
