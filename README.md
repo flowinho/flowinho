@@ -103,4 +103,4 @@ When not working, most of the time my head is with my wonderful daughters and my
 Here are some relevant links you might find interesting:
 
 - [My personal website (german)](https://florianschuttkowski.com)
-- [My CV (german)](https://florianschuttkowski.com/cv/)
+- [My CV (german)](https://florianschuttkowski.com/kontext/lebenslauf/)
