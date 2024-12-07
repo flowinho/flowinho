@@ -76,7 +76,7 @@ During my everyday life, i rely on the following mobile tools:
       <img alt="mastodon" src="https://img.shields.io/badge/-Chaos.Social-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
       <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
       <img alt="syncthing" src="https://img.shields.io/badge/-SyncthingFork-0891D1?style=flat-square&logo=syncthing&logoColor=white" />
-      <img alt="geocaching" src="https://img.shields.io/badge/-Geoaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
+      <img alt="geocaching" src="https://img.shields.io/badge/-Geocaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
       <img alt="synologyphotos" src="https://img.shields.io/badge/-SynologyPhotos-B5B5B6?style=flat-square&logo=synology&logoColor=white" />
     </td>
     <td>
@@ -85,7 +85,7 @@ During my everyday life, i rely on the following mobile tools:
       <img alt="nextcloud" src="https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" />
       <img alt="mastodon" src="https://img.shields.io/badge/-Chaos.Social-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
       <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
-      <img alt="geocaching" src="https://img.shields.io/badge/-Geoaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
+      <img alt="geocaching" src="https://img.shields.io/badge/-Geocaching-00874D?style=flat-square&logo=geocaching&logoColor=white" />
       <img alt="synologyphotos" src="https://img.shields.io/badge/-SynologyPhotos-B5B5B6?style=flat-square&logo=synology&logoColor=white" />
     </td>      
   </tr>
